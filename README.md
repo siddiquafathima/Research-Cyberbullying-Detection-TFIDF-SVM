@@ -116,7 +116,7 @@ Implemented for comparison against SVM.
 
 ---
 
-## Accuracy Comparison
+## PERFORMANCE COMPARISON OF MACHINE LEARNING MODELS
 
 <img src="images/PERFORMANCE COMPARISON OF MACHINE LEARNING MODELS.png" width="650">
 
