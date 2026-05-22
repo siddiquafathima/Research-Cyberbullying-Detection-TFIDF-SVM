@@ -57,9 +57,7 @@ The workflow followed in this research:
 
 ## System Workflow
 
-Add workflow image here:
-
-<img src="images/workflow.png" width="650">
+ <img src="images/SYSTEM ARCHITECTURE.png" width="650">
 
 ---
 
@@ -134,13 +132,6 @@ Implemented for comparison against SVM.
 
 ---
 
-
-# System Architecture of the Proposed Cyberbullying Detection Frame
-work
-
- <img src="images/SYSTEM ARCHITECTURE.png" width="650">
-
----
    
 # Key Findings
 
