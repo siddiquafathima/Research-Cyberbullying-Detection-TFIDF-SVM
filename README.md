@@ -130,10 +130,18 @@ Implemented for comparison against SVM.
 
 ## ROC Curve
 
-<img src="images/ROC.png" width="650">
+<img src="images/ROC.png" width="650"> 
 
 ---
 
+
+# System Architecture of the Proposed Cyberbullying Detection Frame
+work
+
+ <img src="images/SYSTEM ARCHITECTURE.png" width="650">
+
+---
+   
 # Key Findings
 
 - SVM showed better performance for cyberbullying classification.
