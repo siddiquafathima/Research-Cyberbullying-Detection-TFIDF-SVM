@@ -206,7 +206,7 @@ MCA | AI & ML Enthusiast | Research Learner
 GitHub: https://github.com/siddiquafathima
 
 LinkedIn:
-(Add LinkedIn link)
+https://www.linkedin.com/in/siddiqua-fathima-126b98212
 
 ---
 
